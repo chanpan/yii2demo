@@ -1,0 +1,95 @@
+# Framework
+# ---------
+YII_DEBUG   = true
+YII_ENV     = dev
+
+# Databases
+# ---------
+DB_DSN           = mysql:host=127.0.0.1;port=3306;dbname=dpm
+DB_USERNAME      = root
+DB_PASSWORD      = Chanpan!((#
+
+DB_DSN2           = mysql:host=61.19.254.15;port=3306;dbname=v04cascap 
+
+DB_USERNAME2      = webmaster 
+
+DB_PASSWORD2      = d@t@b@se!@#$% 
+
+ 
+
+# --------- dbbot 
+
+DB_DSN3           = mysql:host=61.19.254.18;port=3306;dbname=buffe_data 
+
+DB_USERNAME3      = webservice 
+
+DB_PASSWORD3      = webservice!@#$% 
+
+ 
+# --------- dbbot2 
+
+DB_DSN4           = mysql:host=61.19.254.10;port=3306;dbname=buffe_data 
+
+DB_USERNAME4      = webservice 
+
+DB_PASSWORD4      = webservice!@#$% 
+
+ 
+
+# --------- dbtdc 
+
+DB_DSN5           = mysql:host=61.19.254.10;port=3306;dbname=buffe_data 
+
+DB_USERNAME5      = webservice 
+
+DB_PASSWORD5      = webservice!@#$% 
+
+ 
+
+# --------- dbnemo 
+
+DB_DSN6           = mysql:host=61.19.254.13;port=3306;dbname=damasac 
+
+DB_USERNAME6      = nemo101 
+
+DB_PASSWORD6      = nemo101 
+
+ 
+
+# --------- dbcascaputf8 
+DB_DSN7           = mysql:host=61.19.254.15;port=3306;dbname=cascapcloud 
+DB_USERNAME7      = cascapcloud 
+DB_PASSWORD7      = cascapcloud!@#$% 
+
+# --------- dbbot 
+DB_DSN8           = mysql:host=61.19.254.8;port=3306;dbname=buffe_data 
+DB_USERNAME8      = webservice 
+DB_PASSWORD8      = webservice!@#$% 
+
+ 
+
+
+
+DB_TABLE_PREFIX  =
+
+# Urls
+# ----
+FRONTEND_URL    = http://www.dpmcloud.dev 
+BACKEND_URL     = http://backend.dpmcloud.dev 
+STORAGE_URL     = http://storage.dpmcloud.dev:81
+
+
+# Other
+# -----
+FRONTEND_COOKIE_VALIDATION_KEY = WX2NEgvgmhTpHDMCNhY7w2Gi98Kk9OQM
+BACKEND_COOKIE_VALIDATION_KEY = b612S02WIgeVU_7T-t9qJeitaBsT3bii
+
+ADMIN_EMAIL    = admin@yii2-starter-kit.dev
+ROBOT_EMAIL    = robot@yii2-starter-kit.dev
+
+GITHUB_CLIENT_ID = your-client-id
+GITHUB_CLIENT_SECRET = your-client-secret
+
+GLIDE_SIGN_KEY = ecigG_pbmj0eFlso4vIt3A845JGR1fkX
+GLIDE_MAX_IMAGE_SIZE = 4000000
+
